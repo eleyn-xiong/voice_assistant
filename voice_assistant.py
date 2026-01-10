@@ -52,4 +52,3 @@ conversation = Conversation(
 # Override settings after initialization
 conversation.agent_override = conversation_override
 
-conversation.start_session()
